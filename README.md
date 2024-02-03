@@ -1,6 +1,6 @@
 # real-time-car-detection
-import numpy as np
-import cv2
+--numpy 
+--cv2
 
 cascade_src = 'cars.xml'
 video = 'data/Cars_On_Highway.mp4'
